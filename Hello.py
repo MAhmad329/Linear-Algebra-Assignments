@@ -1,4 +1,3 @@
-print("Hello World")
-print("Hello")
-print("yes.")
-print("no")
+a = 1
+b = 2
+print(a+b)
