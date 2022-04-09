@@ -1,4 +1,5 @@
 print("Hello World")
 print("Hello Github")
 print("Hello")
-print("yes")
+print("yes.")
+print("no")
